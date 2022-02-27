@@ -16,7 +16,7 @@
 
 ### App Walkthough GIF
 
-<img src="Screen Recording 2022-02-27 at 3.28.40 PM.mov" width=250>
+<img src="ezgif.com-gif-maker.gif" width=250>
 
 ### Notes
 App crashed while trying render the title & overview. Read through errors and realized I mismatched IDs in the xml file. Title did not have the correct ID so rebound it to titleId and errors were resolved.
