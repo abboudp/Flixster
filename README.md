@@ -16,7 +16,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/a/4a1UMfE" width=250>
+<img src="https://i.imgur.com/a/4a1UMfE.gif" width=250>
 
 ### Notes
 App crashed while trying render the title & overview. Read through errors and realized I mismatched IDs in the xml file. Title did not have the correct ID so rebound it to titleId and errors were resolved.
