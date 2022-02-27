@@ -16,7 +16,6 @@
 
 ### App Walkthough GIF
 
-![](http://i.imgur.com/a/4a1UMfE.gif)
 <img src="https://imgur.com/a/4a1UMfE.gif" width=250>
 
 ### Notes
