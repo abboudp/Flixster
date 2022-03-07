@@ -21,7 +21,7 @@
 
 ### App Walkthough GIF
 
-<img src="" width=250><br>
+<img src="Screen-Recording-2022-03-06-at-6.gif" width=250><br>
 
 ### Notes
 
